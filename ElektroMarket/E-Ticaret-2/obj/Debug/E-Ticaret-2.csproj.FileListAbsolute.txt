@@ -1,0 +1,259 @@
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\ApplicationInsights.config
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\csc.exe
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\vbc.exe
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.xml
+C:\Users\SEMİH ALTIN\Documents\Visual Studio 2015\Projects\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\ApplicationInsights.config
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\csc.exe
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\vbc.exe
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+D:\E-Ticaret-2\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+D:\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+D:\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.pdb
+D:\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+D:\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+D:\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+D:\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\ApplicationInsights.config
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\csc.exe
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\vbc.exe
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\ApplicationInsights.config
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\csc.exe
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\vbc.exe
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\E-Ticaret-2.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\E-Ticaret-2.pdb
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\EntityFramework.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\EntityFramework.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-son\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\ApplicationInsights.config
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\csc.exe
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\vbc.exe
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\ApplicationInsights.config
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\csc.exe
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\vbc.exe
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.pdb
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+C:\Users\wissen\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Desktop\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\ApplicationInsights.config
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\csc.exe
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\vbc.exe
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.dll.config
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\E-Ticaret-2.pdb
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.SqlServer.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Web.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.ApplicationInsights.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\EntityFramework.SqlServer.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.Web.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.ApplicationInsights.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.csprojResolveAssemblyReference.cache
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.dll
+C:\Users\SEMİH ALTIN\Desktop\Proje\E-Ticaret-2-sonn\E-Ticaret-2\obj\Debug\E-Ticaret-2.pdb
